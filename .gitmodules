@@ -1,0 +1,3 @@
+[submodule "glowing-octo-archer"]
+	path = glowing-octo-archer
+	url = https://github.com/mariana-gheorghe/glowing-octo-archer.git
